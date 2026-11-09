@@ -27,6 +27,20 @@ A mobile app where every place in your address book is backed by a photo taken o
 
 *These repositories are private. I'm happy to walk through the code in an interview.*
 
-## Tools
+## Skills
 
-![Python](https://img.shields.io/badge/Python-7B5FC4?style=flat-square&logo=python&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-7B5FC4?style=flat-square&logo=pandas&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-7B5FC4?style=flat-square&logo=streamlit&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-7B5FC4?style=flat-square&logo=plotly&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-7B5FC4?style=flat-square&logo=typescript&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-7B5FC4?style=flat-square&logo=react&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-7B5FC4?style=flat-square&logo=firebase&logoColor=white) ![Git](https://img.shields.io/badge/Git-7B5FC4?style=flat-square&logo=git&logoColor=white)
+**AI and LLMs**
+
+![RAG](https://img.shields.io/badge/RAG-7B5FC4?style=flat-square) ![LLM evaluation](https://img.shields.io/badge/LLM_evaluation-7B5FC4?style=flat-square) ![Prompt injection defense](https://img.shields.io/badge/Prompt_injection_defense-7B5FC4?style=flat-square) ![MCP](https://img.shields.io/badge/MCP-7B5FC4?style=flat-square&logo=modelcontextprotocol&logoColor=white) ![Gemini API](https://img.shields.io/badge/Gemini_API-7B5FC4?style=flat-square&logo=googlegemini&logoColor=white)
+
+**Data**
+
+![Python](https://img.shields.io/badge/Python-7B5FC4?style=flat-square&logo=python&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-7B5FC4?style=flat-square&logo=pandas&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-7B5FC4?style=flat-square&logo=streamlit&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-7B5FC4?style=flat-square&logo=plotly&logoColor=white) ![Dataiku](https://img.shields.io/badge/Dataiku-7B5FC4?style=flat-square)
+
+**App development**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-7B5FC4?style=flat-square&logo=typescript&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-7B5FC4?style=flat-square&logo=react&logoColor=white) ![Expo](https://img.shields.io/badge/Expo-7B5FC4?style=flat-square&logo=expo&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-7B5FC4?style=flat-square&logo=firebase&logoColor=white)
+
+**Workflow**
+
+![Git](https://img.shields.io/badge/Git-7B5FC4?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-7B5FC4?style=flat-square&logo=github&logoColor=white) ![pytest](https://img.shields.io/badge/pytest-7B5FC4?style=flat-square&logo=pytest&logoColor=white)
