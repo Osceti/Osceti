@@ -4,7 +4,7 @@
   <img alt="Oscar Zinetti. Data. Albert School, Mines de Paris." src="assets/banner-light.svg" width="100%">
 </picture>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/in/oscar-zinetti-94b73b382)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/in/oscar-zinetti-94b73b382) [![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=000)](https://huggingface.co/Oscetti)
 
 Second-year data student at **Mines de Paris** × **Albert School**.
 
@@ -13,10 +13,10 @@ Second-year data student at **Mines de Paris** × **Albert School**.
 ## LLM systems
 
 - **CV Committee:** can AI agents debate a CV and resist instructions hidden inside it? Team of four. I built CV reading (PDF, DOCX, TXT), blind anonymisation and the guard agent.
-- **RAG evaluation dashboard:** does a RAG system find the right passage, cite it, and refuse when the answer isn't there? Built for the Albert School × Synchrone × Dataiku competition.
+- **[RAG evaluation dashboard](https://huggingface.co/spaces/Oscetti/rag-evaluation-dashboard):** does a RAG system find the right passage, cite it, and refuse when the answer isn't there? Built for the Albert School × Synchrone × Dataiku competition.
 
 ## Mobile
 
 - **Proof:** what if every place in your address book was proven by a photo taken on site? I contribute fixes on the map, profile and search screens, and tests for the photo upload flow.
 
-*These repositories are private. I'm happy to walk through the code in an interview.*
+*CV Committee and Proof are private repositories. I'm happy to walk through the code in an interview.*
