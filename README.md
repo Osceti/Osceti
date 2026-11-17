@@ -12,6 +12,8 @@ Second-year data student at **Mines de Paris** × **Albert School**.
 
 ## LLM systems
 
+- **[AI News Radar](https://github.com/Osceti/ai-news-radar):** a daily digest of the AI stories people discuss most on Hacker News. A GitHub Action collects them every morning, Gemini labels each one with a theme and a one-line summary, and a [dashboard](https://osceti.github.io/ai-news-radar/) tracks which topics rise or fade. I evaluated the classifier on a held-out sample: 73% accuracy, and I document where it still gets things wrong.
+
 - **CV Committee:** can AI agents debate a CV and resist instructions hidden inside it? Team of four. I built CV reading (PDF, DOCX, TXT), blind anonymisation and the guard agent.
 - **[RAG evaluation dashboard](https://huggingface.co/spaces/Oscetti/rag-evaluation-dashboard):** does a RAG system find the right passage, cite it, and refuse when the answer isn't there? Built for the Albert School × Synchrone × Dataiku competition.
 
